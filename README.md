@@ -9,7 +9,7 @@
 <h2><p style="text-align:center;">App Demonstration</p></h2>
 
 ![](https://i.stack.imgur.com/G5tXC.jpg)
-![](https://i.stack.imgur.com/PzDq3.jpg)\
+![](https://i.stack.imgur.com/PzDq3.jpg)
 ![](https://i.stack.imgur.com/r7C9H.jpg)
 ![](https://i.stack.imgur.com/yBiCf.jpg)
 
