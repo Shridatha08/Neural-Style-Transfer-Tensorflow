@@ -13,7 +13,8 @@ Steps-
 * Crop the selected image 
 * Choose from a list of 10 style images
 * Tap on Save image to save style transffered image 
-* 
+
+
 ![](https://i.stack.imgur.com/G5tXC.jpg)
 ![](https://i.stack.imgur.com/PzDq3.jpg)
 
