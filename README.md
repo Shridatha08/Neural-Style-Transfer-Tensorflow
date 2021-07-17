@@ -8,18 +8,20 @@
 
 <h2><p style="text-align:center;">App Demonstration</p></h2>
 
+Steps-
+* Select Content Image from either camera or existing image from files
+* Crop the selected image 
+* Choose from a list of 10 style images
+* Tap on Save image to save style transffered image 
+* 
 ![](https://i.stack.imgur.com/G5tXC.jpg)
 ![](https://i.stack.imgur.com/PzDq3.jpg)
 
 ![](https://i.stack.imgur.com/r7C9H.jpg)
 ![](https://i.stack.imgur.com/yBiCf.jpg)
 
-Steps-
-* Select Content Image from either camera or existing image from files
-* Crop the selected image 
-* Choose from a list of 10 style images
-* Tap on Save image to save style transffered image 
+
 
  
 Drive link for Android source code
-<https://drive.google.com/file/d/1Lf5SYc79olkEgJvCzFG8AXD449Ky8QaF/view?usp=sharing>
+<https://drive.google.com/file/d/15sJ8awuEmfrVafkYToll0ZWvwsQq3iHt/view?usp=sharing>
